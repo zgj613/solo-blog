@@ -10,6 +10,7 @@ zgj613 的个人博客
 
 ### 最新
 
+* [Hello Solo!](http://blog.cl-zhang.ltd/articles/2019/11/22/1574427962872.html)
 * [世界，你好！](http://blog.cl-zhang.ltd/hello-solo)
 
 
